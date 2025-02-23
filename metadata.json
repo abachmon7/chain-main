@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
+  "name": "CARAJILLO",
+  "symbol": "CRJ",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "image": "https://raw.githubusercontent.com/abachmon7/chain-main/refs/heads/master/carajillo%20CRJ.jpg"
 }
